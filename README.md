@@ -11,7 +11,7 @@
 | **Email** | maxjerry2008213@gmail.com |
 | **GitHub** | [GitHub 連結](https://github.com/maxjerry2008213-coder/Qiu) |
 
-![個人照片]<img width="475" height="442" alt="imageyour_photo jpg" src="https://github.com/user-attachments/assets/d996f158-b860-4e39-b16c-a94d4fa3a3ab" />
+<img width="475" height="442" alt="imageyour_photo jpg" src="https://github.com/user-attachments/assets/d996f158-b860-4e39-b16c-a94d4fa3a3ab" />
 
 ---
 
